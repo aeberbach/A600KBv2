@@ -7997,7 +7997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 146.685 24.765 0)
 			(effects
 				(font
@@ -8064,7 +8064,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 95.885 111.125 0)
 			(effects
 				(font
@@ -8131,7 +8131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 146.685 90.805 0)
 			(effects
 				(font
@@ -8198,7 +8198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 146.685 111.125 0)
 			(effects
 				(font
@@ -8332,7 +8332,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 121.285 50.165 0)
 			(effects
 				(font
@@ -8399,7 +8399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 184.785 131.445 0)
 			(effects
 				(font
@@ -8466,7 +8466,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 108.585 131.445 0)
 			(effects
 				(font
@@ -8533,7 +8533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 248.285 50.165 0)
 			(effects
 				(font
@@ -8600,7 +8600,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 133.985 90.805 0)
 			(effects
 				(font
@@ -8667,7 +8667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 121.285 24.765 0)
 			(effects
 				(font
@@ -8734,7 +8734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 210.185 70.485 0)
 			(effects
 				(font
@@ -8801,7 +8801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 222.885 70.485 0)
 			(effects
 				(font
@@ -8868,7 +8868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 260.985 50.165 0)
 			(effects
 				(font
@@ -8935,7 +8935,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 248.285 131.445 0)
 			(effects
 				(font
@@ -9002,7 +9002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 159.385 50.165 0)
 			(effects
 				(font
@@ -9069,7 +9069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 222.885 50.165 0)
 			(effects
 				(font
@@ -9136,7 +9136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 146.685 50.165 0)
 			(effects
 				(font
@@ -9203,7 +9203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 210.185 131.445 0)
 			(effects
 				(font
@@ -9270,7 +9270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 248.285 111.125 0)
 			(effects
 				(font
@@ -9337,7 +9337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 159.385 131.445 0)
 			(effects
 				(font
@@ -9404,7 +9404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 260.985 70.485 0)
 			(effects
 				(font
@@ -9471,7 +9471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 159.385 24.765 0)
 			(effects
 				(font
@@ -9538,7 +9538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 108.585 50.165 0)
 			(effects
 				(font
@@ -9605,7 +9605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 197.485 131.445 0)
 			(effects
 				(font
@@ -9672,7 +9672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 95.885 131.445 0)
 			(effects
 				(font
@@ -9739,7 +9739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 172.085 90.805 0)
 			(effects
 				(font
@@ -9806,7 +9806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 146.685 70.485 0)
 			(effects
 				(font
@@ -9940,7 +9940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 159.385 111.125 0)
 			(effects
 				(font
@@ -10007,7 +10007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 184.785 70.485 0)
 			(effects
 				(font
@@ -10074,7 +10074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 210.185 111.125 0)
 			(effects
 				(font
@@ -10141,7 +10141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 197.485 70.485 0)
 			(effects
 				(font
@@ -10208,7 +10208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 83.185 111.125 0)
 			(effects
 				(font
@@ -10275,7 +10275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 108.585 24.765 0)
 			(effects
 				(font
@@ -10342,7 +10342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Amiga_FFC:KS-33-8_6.25-space-plate-stabilizer"
+		(property "Footprint" "Amiga Keyboard:KS-33-8U-space"
 			(at 235.585 131.445 0)
 			(effects
 				(font
@@ -10409,7 +10409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 222.885 90.805 0)
 			(effects
 				(font
@@ -10476,7 +10476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 83.185 131.445 0)
 			(effects
 				(font
@@ -10543,7 +10543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 121.285 131.445 0)
 			(effects
 				(font
@@ -10610,7 +10610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 235.585 50.165 0)
 			(effects
 				(font
@@ -10677,7 +10677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 121.285 111.125 0)
 			(effects
 				(font
@@ -10811,7 +10811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 184.785 50.165 0)
 			(effects
 				(font
@@ -10878,7 +10878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Amiga_FFC:KS-33-2U-plate-stabilizer"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS-33-2U-stabilizer"
 			(at 83.185 90.805 0)
 			(effects
 				(font
@@ -10945,7 +10945,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 133.985 70.485 0)
 			(effects
 				(font
@@ -11012,7 +11012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 235.585 90.805 0)
 			(effects
 				(font
@@ -11079,7 +11079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 159.385 90.805 0)
 			(effects
 				(font
@@ -11146,7 +11146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Amiga_FFC:KS-33-ISO-plate-stabilizer"
+		(property "Footprint" "Amiga Keyboard:KS-33-ISO-2U-stabilizer"
 			(at 248.285 90.805 0)
 			(effects
 				(font
@@ -11213,7 +11213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 133.985 50.165 0)
 			(effects
 				(font
@@ -11280,7 +11280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 210.185 90.805 0)
 			(effects
 				(font
@@ -11347,7 +11347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 260.985 111.125 0)
 			(effects
 				(font
@@ -11414,7 +11414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 159.385 70.485 0)
 			(effects
 				(font
@@ -11481,7 +11481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 108.585 70.485 0)
 			(effects
 				(font
@@ -11548,7 +11548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 235.585 70.485 0)
 			(effects
 				(font
@@ -11682,7 +11682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 83.185 50.165 0)
 			(effects
 				(font
@@ -11749,7 +11749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 108.585 90.805 0)
 			(effects
 				(font
@@ -11816,7 +11816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 235.585 111.125 0)
 			(effects
 				(font
@@ -11883,7 +11883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 184.785 90.805 0)
 			(effects
 				(font
@@ -11950,7 +11950,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 95.885 24.765 0)
 			(effects
 				(font
@@ -12017,7 +12017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 133.985 111.125 0)
 			(effects
 				(font
@@ -12084,7 +12084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 133.985 131.445 0)
 			(effects
 				(font
@@ -12151,7 +12151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 95.885 70.485 0)
 			(effects
 				(font
@@ -12218,7 +12218,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.75U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.75U"
 			(at 133.985 24.765 0)
 			(effects
 				(font
@@ -12285,7 +12285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 222.885 111.125 0)
 			(effects
 				(font
@@ -12352,7 +12352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 248.285 70.485 0)
 			(effects
 				(font
@@ -12419,7 +12419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 95.885 90.805 0)
 			(effects
 				(font
@@ -12486,7 +12486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 121.285 70.485 0)
 			(effects
 				(font
@@ -12553,7 +12553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.25U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.25U"
 			(at 210.185 50.165 0)
 			(effects
 				(font
@@ -12620,7 +12620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 197.485 90.805 0)
 			(effects
 				(font
@@ -12687,7 +12687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 121.285 90.805 0)
 			(effects
 				(font
@@ -12754,7 +12754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 197.485 111.125 0)
 			(effects
 				(font
@@ -12821,7 +12821,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.5U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.5U"
 			(at 83.185 70.485 0)
 			(effects
 				(font
@@ -12888,7 +12888,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 260.985 131.445 0)
 			(effects
 				(font
@@ -13113,7 +13113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 172.085 70.485 0)
 			(effects
 				(font
@@ -13180,7 +13180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 146.685 131.445 0)
 			(effects
 				(font
@@ -13247,7 +13247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1U"
 			(at 260.985 90.805 0)
 			(effects
 				(font
@@ -13314,7 +13314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Solderable:Gateron-KS33-Solderable-1.75U"
+		(property "Footprint" "Amiga Keyboard:Gateron-KS33-Solderable-1.75U"
 			(at 83.185 24.765 0)
 			(effects
 				(font
