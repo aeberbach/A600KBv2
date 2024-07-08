@@ -941,12 +941,6 @@
 		)
 	)
 	(junction
-		(at 53.34 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "06ee6d16-d438-47db-9b0c-58a9f6854d73")
-	)
-	(junction
 		(at 124.46 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -975,6 +969,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d3284c8-9584-4ee4-a4af-e9d5f269e360")
+	)
+	(junction
+		(at 52.07 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f1b006f-2e36-4514-9b39-5779818e6940")
 	)
 	(junction
 		(at 213.36 38.1)
@@ -1342,7 +1342,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 132.08) (xy 44.45 132.08)
+			(xy 52.07 73.66) (xy 43.18 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1352,13 +1352,23 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 73.66) (xy 53.34 82.55)
+			(xy 52.07 41.91) (xy 52.07 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9d25cbcd-8318-41b3-888f-0fa0ec450390")
+	)
+	(wire
+		(pts
+			(xy 52.07 73.66) (xy 81.28 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1653cfb-006b-4982-8882-96d072fe598d")
 	)
 	(polyline
 		(pts
@@ -1389,16 +1399,6 @@
 			(type default)
 		)
 		(uuid "b599c179-21be-4f93-ae19-3cd61a9afa25")
-	)
-	(wire
-		(pts
-			(xy 53.34 73.66) (xy 81.28 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b93a1289-1901-4827-862a-01019afd1615")
 	)
 	(wire
 		(pts
@@ -1442,7 +1442,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 90.17) (xy 53.34 132.08)
+			(xy 52.07 58.42) (xy 52.07 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1462,7 +1462,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 73.66) (xy 53.34 73.66)
+			(xy 43.18 41.91) (xy 52.07 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1624,9 +1624,9 @@
 		)
 		(uuid "fc4b0117-82a4-4f5a-bd48-4266c3031772")
 	)
-	(global_label "CAPS_LOCK"
+	(global_label "VCC"
 		(shape input)
-		(at 44.45 73.66 180)
+		(at 43.18 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1636,7 +1636,7 @@
 		)
 		(uuid "003092e8-bf3c-459a-bc83-e603d8ec3c16")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.7605 73.66 0)
+			(at 36.5662 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1648,7 +1648,7 @@
 	)
 	(global_label "CAPS_GND"
 		(shape input)
-		(at 44.45 132.08 180)
+		(at 43.18 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1658,7 +1658,7 @@
 		)
 		(uuid "87b2c8f6-8c81-4817-86b3-a0c3ef8616a7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.7886 132.08 0)
+			(at 30.5186 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1737,7 +1737,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 53.34 86.36 90)
+		(at 52.07 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1746,7 +1746,7 @@
 		(fields_autoplaced yes)
 		(uuid "157f825b-14d6-4b13-a99f-0ab3b6981cee")
 		(property "Reference" "D2"
-			(at 57.15 86.6774 90)
+			(at 55.88 54.9274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1755,7 +1755,7 @@
 			)
 		)
 		(property "Value" "CAPS LED 2"
-			(at 57.15 89.2174 90)
+			(at 55.88 57.4674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1764,7 +1764,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 53.34 86.36 0)
+			(at 52.07 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1773,7 +1773,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 86.36 0)
+			(at 52.07 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1782,7 +1782,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 53.34 86.36 0)
+			(at 52.07 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2038,7 +2038,7 @@
 				)
 			)
 		)
-		(property "Value" "CAPS"
+		(property "Value" "POWER"
 			(at 152.654 75.184 90)
 			(effects
 				(font
@@ -2105,7 +2105,7 @@
 				)
 			)
 		)
-		(property "Value" "POWER LED (RED)"
+		(property "Value" "CAPS LOCK (BLUE)"
 			(at 133.604 90.17 0)
 			(effects
 				(font
@@ -2172,7 +2172,7 @@
 				)
 			)
 		)
-		(property "Value" "POWER"
+		(property "Value" "CAPS"
 			(at 151.384 95.504 90)
 			(effects
 				(font
@@ -2310,7 +2310,7 @@
 				)
 			)
 		)
-		(property "Value" "CAPS LED (BLUE)"
+		(property "Value" "POWER LED (RED)"
 			(at 133.0325 69.85 0)
 			(effects
 				(font

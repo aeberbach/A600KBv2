@@ -7928,7 +7928,7 @@
 		)
 		(uuid "febaafa2-43bb-4185-944f-707411e2718d")
 	)
-	(global_label "CAPS_LOCK"
+	(global_label "VCC"
 		(shape input)
 		(at 29.21 133.35 180)
 		(fields_autoplaced yes)
@@ -7940,7 +7940,7 @@
 		)
 		(uuid "99ecb7f8-db4d-431b-8502-e8c83ceaceb4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.5205 133.35 0)
+			(at 22.5962 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
