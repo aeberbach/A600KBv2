@@ -1,4 +1,4 @@
-23654115434610972
+23822724778874087
 Amiga Keyboard
 Gateron-KS-33-2U-stabilizer
 
@@ -36,6 +36,13 @@ Gateron-KS33-Solderable-1U
 2
 Amiga Keyboard
 KS-33-2U-stabilizer
+
+
+0
+2
+2
+Amiga Keyboard
+KS-33-8-9U-space
 
 
 0
@@ -2361,7 +2368,7 @@ tactile switch Omron B3F right angle through hole
 Button_Switch_THT
 SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm
 Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf
-switch single-pole double-throw SPDT würth wurth
+switch single-pole opposite-side-connection double-throw SPDT würth wurth
 0
 3
 3
@@ -8371,6 +8378,13 @@ Combo Connector microSD and microSIM
 0
 25
 18
+Connector_Card
+SD_Card_Device_16mm_SlotDepth
+SD card device PCB layout, contacts and mechanicalm, 16mm slot depth. Manufacture with PCB thickness of 1.4mm, http://www.convict.lu/pdf/ProdManualSDCardv1.9.pdf
+SD Card
+0
+9
+9
 Connector_Card
 SD_Hirose_DM1AA_SF_PEJ82
 SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)
@@ -49672,6 +49686,13 @@ usb usb-c 2.0 pd
 20
 17
 Connector_USB
+USB_C_Receptacle_HRO_TYPE-C-31-M-17
+USB Type-C receptacle for USB 2.0, 6 pin, https://omo-oss-file.thefastfile.com/portal-saas/new2023011311465142457/cms/file/134891b2-9b01-4104-89d3-96207243f692.pdf
+usb usb-c 2.0 pd
+0
+10
+7
+Connector_USB
 USB_C_Receptacle_JAE_DX07S016JA1R1500
 USB TYPE C, USB 2.0, SMT, https://www.jae.com/en/connectors/series/detail/product/id=91780
 USB C Type-C Receptacle SMD USB 2.0
@@ -57725,6 +57746,69 @@ Fuse
 Fuseholder_TR5_Littelfuse_No560_No460
 Fuse, Fuseholder, TR5, Littelfuse/Wickmann, No. 460, No560, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_holders/littelfuse_fuse_holder_559_560_datasheet.pdf.pdf
 Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560 
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-1.5U
+
+
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-1.25U
+
+
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-1.75U
+
+
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-1U
+
+
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-2.25U
+
+
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-2.75U
+
+
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-2U
+
+
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-6.25U
+
+
+0
+2
+2
+Gateron_KS33_Solderable
+Gateron-KS33-Solderable-7U
+
+
 0
 2
 2
@@ -71178,7 +71262,7 @@ DFN 0.45
 Package_DFN_QFN
 DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm
 DFN, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081702_c_ddb8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead Linear-DDB
+DFN NoLead
 0
 11
 9
@@ -74409,6 +74493,13 @@ ti vqfn-hr rnn0018a
 0
 26
 18
+Package_DFN_QFN
+Texas_RPU0010A_VQFN-HR-10_2x2mm_P0.5mm
+VQFN-HR, 10 Pin (https://www.ti.com/lit/ds/symlink/tps62912.pdf#page=39)
+VQFN-HR NO LEAD
+0
+10
+10
 Package_DFN_QFN
 Texas_RSA_VQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm
 Texas RSA VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -86926,6 +87017,13 @@ DPDT relay, Finder 40.52, 8A, 250V, body size 29x12.4mm, height 25mm, pitch 5x7.
 8
 8
 Relay_THT
+Relay_DPDT_Finder_40.62
+DPDT relay, Finder 40.62, 10A, 250V, body size 29x12.4mm, height 25mm, pitch 5x7.5mm, https://cdn.findernet.com/app/uploads/S40EN.pdf
+2-Form-C
+0
+8
+8
+Relay_THT
 Relay_DPDT_Fujitsu_FTR-F1C
 https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf
 relay dpdt fujitsu tht
@@ -87128,6 +87226,13 @@ SPDT relay, Finder 40.52, 10/12A, 250V, body size 29x12.4mm, height 25mm, pitch 
 0
 5
 5
+Relay_THT
+Relay_SPDT_Finder_40.61
+SPDT relay, Finder 40.61, 16A, 250V, body size 29x12.4mm, height 25mm, pitch 5x7.5mm, https://cdn.findernet.com/app/uploads/S40EN.pdf
+2-Form-C
+0
+8
+8
 Relay_THT
 Relay_SPDT_Fujitsu_FTR-LYCA005x_FormC_Vertical
 Relay, SPDT Form C, vertical mount, 6A, 5-60V, https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf
@@ -89319,6 +89424,13 @@ hall current
 0
 6
 6
+Sensor_Current
+LEM_LA25-NP
+LEM LA 25-NP Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/la%2025-np.pdf)
+Current sensor LEM
+0
+13
+13
 Sensor_Current
 LEM_LA25-P
 LEM Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/la_25-p.pdf)
@@ -96638,6 +96750,209 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+key-switches
+SW_Gateron_LowProfile_HotSwap_PTH
+Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
+switch, low_profile, hot_swap
+0
+6
+2
+key-switches
+SW_Gateron_LowProfile_HotSwap_THT
+Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
+switch, low_profile, hot_swap
+0
+4
+2
+key-switches
+SW_Gateron_LowProfile_THT
+Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, through-hole soldering, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
+switch, low_profile
+0
+2
+2
+key-switches
+SW_Kailh_Choc_V1V2_THT_Hybrid
+Compatible with Kailh Choc V1 (PG1350) and Choc V2 (PG1353) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+3
+2
+key-switches
+SW_Kailh_Choc_V1_HotSwap
+Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, hot-swap socket, single-sided mounting.
+switch, low_profile, hot_swap
+0
+2
+2
+key-switches
+SW_Kailh_Choc_V1_HotSwap_PTH
+Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, hot-swap socket, the hole of the socket is plated, single-sided mounting.
+switch, low_profile, hot_swap
+0
+6
+2
+key-switches
+SW_Kailh_Choc_V1_HotSwap_PTH_nSilk
+Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, hot-swap socket, the hole of the socket is plated, single-sided mounting.
+switch, low_profile, hot_swap
+0
+6
+2
+key-switches
+SW_Kailh_Choc_V1_HotSwap_THT
+Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, hot-swap socket and through-hole soldering, single-sided mounting.
+switch, low_profile, hot_swap
+0
+4
+2
+key-switches
+SW_Kailh_Choc_V1_THT
+Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+2
+2
+key-switches
+SW_Kailh_Choc_V1_THT_alt1
+Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting. An alternative to "SW_Kailh_Choc_V1_THT" with additional fix pin.
+switch, low_profile
+0
+2
+2
+key-switches
+SW_Kailh_Choc_V1_THT_nSilk
+Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+2
+2
+key-switches
+SW_Kailh_Choc_V1_THT_swap
+Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+2
+2
+key-switches
+SW_Kailh_Choc_V2_THT
+Kailh Choc V2 (PG1353) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+3
+2
+key-switches
+SW_Kailh_Choc_V2_THT_nSilk
+Kailh Choc V2 (PG1353) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+3
+2
+key-switches
+SW_MX_HotSwap_PTH
+Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting.
+switch, hot_swap
+0
+6
+2
+key-switches
+SW_MX_HotSwap_PTH_double
+Cherry MX style mechanical keyboard switch, through-hole soldering and Kailh/Gateron hot-swap socket, the hole of the socket is plated, double-sided mounting.
+switch, hot_swap
+0
+12
+2
+key-switches
+SW_MX_HotSwap_PTH_nSilk
+Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting.
+switch, hot_swap
+0
+6
+2
+key-switches
+SW_MX_HotSwap_PTH_swap
+Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting.
+switch, hot_swap
+0
+6
+2
+key-switches
+SW_MX_HotSwap_THT
+Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, single-sided mounting.
+switch, hot_swap
+0
+4
+2
+key-switches
+SW_MX_HotSwap_THT_double
+Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, double-sided mounting.
+switch, hot_swap
+0
+8
+2
+key-switches
+SW_MX_HotSwap_THT_double_alt1
+Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, double-sided mounting. An alternative to "SW_MX_HotSwap_THT_double".
+switch, hot_swap
+0
+8
+2
+key-switches
+SW_MX_HotSwap_THT_double_alt2
+Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, double-sided mounting. An alternative to "SW_MX_HotSwap_THT_double".
+switch, hot_swap
+0
+8
+2
+key-switches
+SW_MX_HotSwap_THT_nSilk
+Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, single-sided mounting.
+switch, hot_swap
+0
+4
+2
+key-switches
+SW_MX_Kailh_Choc_V1V2_THT_Hybrid
+Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+5
+2
+key-switches
+SW_MX_LowProfile_Kailh_Choc_V1V2_THT_Hybrid
+Compatible with Cherry MX Low Profile, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+5
+2
+key-switches
+SW_MX_LowProfile_THT
+Cherry MX Low Profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+2
+2
+key-switches
+SW_MX_LowProfile_THT_nSilk
+Cherry MX Low Profile mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch, low_profile
+0
+2
+2
+key-switches
+SW_MX_THT
+Cherry MX style mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch
+0
+2
+2
+key-switches
+SW_MX_THT_nSilk
+Cherry MX style mechanical keyboard switch, through-hole soldering, single-sided mounting.
+switch
 0
 2
 2

@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 3.2,
-          "width": 3.2
+          "drill": 5.1,
+          "height": 5.1,
+          "width": 5.1
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -487,7 +487,7 @@
       "plot": "fab/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "3dprint/Keyboard Plates/A600KBv3.step",
       "svg": "",
       "vrml": ""
     },

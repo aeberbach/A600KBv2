@@ -10342,7 +10342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Amiga Keyboard:KS-33-8U-space"
+		(property "Footprint" "Amiga Keyboard:KS-33-8-9U-space"
 			(at 235.585 131.445 0)
 			(effects
 				(font
